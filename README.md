@@ -1,10 +1,10 @@
-# Datasets-13 Supervised classifiers All modesls for iris
 # Iris Dataset Analysis
 
 ## Overview
 This repository contains the python code and documentation for analyzing the "Iris" dataset using
  Python and statistical methods. The dataset consists of various variables related to sepal_length, sepal_width, petal_length, petal_width, species.
 Our goal is to explore, analyze, and draw insights from this data.
+
 ## Dataset Description
 The "Iris" dataset contains information about flowers into three categories, setosa, versicolor, virginica. Each entry represents a unique 
 dining experience and includes the following columns:
